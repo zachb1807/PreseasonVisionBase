@@ -29,4 +29,9 @@ public class Constants {
         
         public static final double noteHeightMeters = 0;
     }
+
+    public class Arm {
+        public static final int maxArmSpeed = 5;
+        public static final int armMotorPort = 6;
+    }
 }
