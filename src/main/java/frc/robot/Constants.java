@@ -10,7 +10,7 @@ public class Constants {
         public static final double stickDeadband = 0.1;
 
         /* Maximum drivetrain speed in meters per second. */
-        public static final double maxSpeed = 4.5;
+        public static final double maxSpeed = 6;
         /* Number of seconds to wait after the robot is disabled before setting drive motors to neutral. */
         /* Allows the robot to stop instantly, but is easier to push after the delay. */
         public static final int disableBreakTime = 10;
